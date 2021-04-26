@@ -8,7 +8,7 @@
   - Posting, Reply, Hashtag My Profile
   - Searching posts and hashtag
   
-* What am i using on this project? 
+### What am i using on this project? 
  - front : React, Next.js, Saga, Redux
  - back : express.js, Mysql sequelize, Aws
 
