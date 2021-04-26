@@ -19,8 +19,8 @@
 
 ### 📝 Final Repositorys And Packages.json
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73155839/116032933-7bacdc80-a69b-11eb-8719-63a0acb88ca3.png" width="50%" height="50%">
-  <img src="https://user-images.githubusercontent.com/73155839/116032944-7ea7cd00-a69b-11eb-8d65-8a8b26172188.png" width="50%" height="50%">
+  <img src="https://user-images.githubusercontent.com/73155839/116032933-7bacdc80-a69b-11eb-8719-63a0acb88ca3.png" width="30%" height="30%">
+  <img src="https://user-images.githubusercontent.com/73155839/116032944-7ea7cd00-a69b-11eb-8d65-8a8b26172188.png" width="30%" height="30%">
 </p>
 
 
