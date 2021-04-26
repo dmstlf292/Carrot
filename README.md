@@ -28,15 +28,17 @@
 ### 🌄 Screen Capture
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/73155839/116033054-b1ea5c00-a69b-11eb-87ef-886edfcab7c6.png" width="80%" height="50%">
+  
   <img src="https://user-images.githubusercontent.com/73155839/116033049-ae56d500-a69b-11eb-9e28-98965f9c7d83.png" width="80%" height="50%">
   
   <img src="https://user-images.githubusercontent.com/73155839/116033050-b0209880-a69b-11eb-8064-347874c927ed.png" width="80%" height="50%">
   
-  <img src="https://user-images.githubusercontent.com/73155839/116033052-b151c580-a69b-11eb-931a-602be339cee2.png" width="80%" height="50%">
+ 
   
   <img src="https://user-images.githubusercontent.com/73155839/116033053-b1ea5c00-a69b-11eb-9073-d47edf964d7f.png" width="80%" height="50%">
   
-  <img src="https://user-images.githubusercontent.com/73155839/116033054-b1ea5c00-a69b-11eb-87ef-886edfcab7c6.png" width="80%" height="50%">
+  
   
   <img src="https://user-images.githubusercontent.com/73155839/116033055-b282f280-a69b-11eb-8ee2-ce678ddc43d7.png" width="80%" height="50%">
   
