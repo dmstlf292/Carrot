@@ -1,7 +1,7 @@
 # CARROT_MARKET
 
 ### 💻 This is Personal Project and Started at 19/04/2021 ~ 26/04/2021
-* Worked on Twitter Clone Coding with VScode, MacOS & MYSQL
+* Worked with VScode, MacOS & MYSQL
 * Functions 
   - Login/Logout/Join/Hash Password
   - (Un)Like + (Un)Share
