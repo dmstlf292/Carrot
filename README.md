@@ -10,7 +10,7 @@
   - infinite scrolling
   
 ### 👩🏻‍💻 What am i using on this project? 
- - Front : React, Next.js, Saga, Redux
+ - Front : React, EntDesign, Next.js, Redux-Saga, React-Redux
  - Back : express.js, Mysql sequelize
 
 ### ⚡️ Haven't yet fixed
