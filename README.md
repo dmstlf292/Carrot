@@ -7,10 +7,11 @@
   - (Un)Like + (Un)Share
   - Posting, Reply, Hashtag My Profile
   - Searching posts and hashtag
+  - infinite scrolling
   
 ### 👩🏻‍💻 What am i using on this project? 
  - Front : React, Next.js, Saga, Redux
- - Back : express.js, Mysql sequelize, Aws
+ - Back : express.js, Mysql sequelize
 
 ### ⚡️ Haven't yet fixed
 - upload images issue
